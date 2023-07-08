@@ -1,8 +1,7 @@
 ### Hi there. I'm a Pedro Augusto 👋
 
-- 💻 I’m front-end developer
+- 💻 I’m full-stack developer
 - 📖 I’m Computer Science student at Federal University of Alagoas.
-- 🖥 I’m working on <a href="https://www.handtalk.me/br/">HandTalk</a>
 
 <div align="center">
   <a href="https://github.com/PedroAugustoACT">
